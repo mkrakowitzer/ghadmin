@@ -1,0 +1,20 @@
+{
+  "data": {
+    "organization": {
+      "teams": {
+        "edges": [
+          {
+            "node": {
+              "name": "foo1"
+            }
+          },
+          {
+            "node": {
+              "name": "foo2"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
